@@ -1,4 +1,4 @@
-# Advection Equation Solutions
+#Numerical Solutions to the Advection Equation 
 This repository contains MATLAB and c++ implementations of numerical solutions to the advection equation, in particular:
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=u_t&plus;au_x=0,&space;\:\:\:\:&space;u(x,0)=u_0(x)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?u_t&plus;au_x=0,&space;\:\:\:\:&space;u(x,0)=u_0(x)" title="u_t+au_x=0, \:\:\:\: u(x,0)=u_0(x)" /></a>
