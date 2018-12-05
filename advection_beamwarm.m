@@ -9,7 +9,7 @@ function [u] = advection_beamwarm(a,b,dx,dt,max_t,c)
     uprev = arrayfun(u_0, space);
     u = 0*uprev;
     
-    for n=3:length(time)-2
+    for n=1:length(time)
         for j=3:length(u)
             if c > 0
                 u(1) = uprev(end);
